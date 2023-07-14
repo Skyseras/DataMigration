@@ -1,0 +1,26 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "FirstName": "Edna",
+            "LastName": "Frank",
+            "Email": "efrank@genepoint.com",
+            "Phone": "(650) 867-3450",
+            "AccountId": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "FirstName": "Ashley",
+            "LastName": "James",
+            "Email": "ajames@uog.com",
+            "Phone": "+44 191 4956203",
+            "AccountId": "@AccountRef2"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "User",
+                "referenceId": "UserRef1"
+            },
+            "Username": "newyasser@example.com",
+            "Email": "yasserelmahfoudi@gmail.com",
+            "FirstName": "news",
+            "LastName": "user2",
+            "Alias": "nusers",
+            "ContactId": "@ContactRef1",
+            "TimeZoneSidKey": "America/New_York",
+            "LocaleSidKey": "en_US",
+            "EmailEncodingKey": "UTF-8",
+            "ProfileId": "00e8e000001Ntlh",
+            "LanguageLocaleKey": "en_US"
+        }
+    ]
+}

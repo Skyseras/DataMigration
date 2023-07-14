@@ -1,0 +1,17 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "GenePointnewuser",
+            "Industry": "Biotechnology",
+            "Phone": "(650) 867-3450",
+            "BillingStreet": "345 Shoreline Park\nMountain View, CA 94043\nUSA",
+            "BillingCity": "Mountain View",
+            "BillingState": "CA",
+            "BillingPostalCode": null
+        }
+    ]
+}

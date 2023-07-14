@@ -1,0 +1,15 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "FirstName": "Ednanew",
+            "LastName": "Frankuser",
+            "Email": "efranknewuser@genepoint.com",
+            "Phone": "(650) 867-3450",
+            "AccountId": "@AccountRef1"
+        }
+    ]
+}

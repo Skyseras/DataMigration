@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "GenePoint",
+            "Industry": "Biotechnology",
+            "Phone": "(650) 867-3450"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "United Oil & Gas, UK",
+            "Industry": "Energy",
+            "Phone": "+44 191 4956203"
+        }
+    ]
+}
